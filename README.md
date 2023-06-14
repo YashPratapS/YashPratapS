@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashPratapS
-- 👀 I’m interested in Android development
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on Java and android development
 - 📫 mail me at yashpratap684@gmail.com
