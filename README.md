@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashPratapS
+- 👋 Hi, I’m Yash Praatap Singh
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on Java and android development
